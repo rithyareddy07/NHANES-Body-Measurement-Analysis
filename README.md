@@ -1,14 +1,38 @@
 # NHANES Body Measurements Analysis
 
-This project analyzes NHANES body measurement data using Python, NumPy, Pandas, Matplotlib, and Seaborn.
+This repository contains a statistical analysis of NHANES body measurement data for adult male and female participants.
 
-The project includes:
-- Descriptive Statistics
-- Histograms and Boxplots
-- BMI Calculation
-- Waist-to-Height Ratio (WHtR)
-- Waist-to-Hip Ratio (WHR)
-- Z-score Standardization
-- Pairplot Analysis
-- Pearson and Spearman Correlation Analysis
-- BMI-based Participant Comparison
+## Contents
+
+* NHANES Analysis Notebook (`.ipynb`)
+* Male NHANES Dataset (`.csv`)
+* Female NHANES Dataset (`.csv`)
+
+## Tools Used
+
+* Python
+* NumPy
+* Pandas
+* Matplotlib
+* Seaborn
+* SciPy
+
+## Topics Covered
+
+* Descriptive Statistics
+* Histograms and Boxplots
+* BMI Calculation
+* Waist-to-Height Ratio (WHtR)
+* Waist-to-Hip Ratio (WHR)
+* Z-Score Standardization
+* Pairplot Analysis
+* Pearson Correlation
+* Spearman Correlation
+
+## Dataset Source
+
+https://github.com/gagolews/teaching-data
+
+## Author
+
+Rithya Reddy
